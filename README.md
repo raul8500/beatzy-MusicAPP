@@ -174,10 +174,6 @@ GlassCard(
 )
 ```
 
-## 📱 Capturas de Pantalla
-
-[Incluir capturas de pantalla de la aplicación aquí]
-
 ## 🤝 Contribución
 
 1. Fork el proyecto
@@ -186,21 +182,6 @@ GlassCard(
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 🙏 Agradecimientos
-
-- **Apple**: Inspiración del diseño iOS 26 Liquid Glass
-- **Flutter Team**: Framework de desarrollo
-- **Comunidad Flutter**: Librerías y recursos
-
-## 📞 Contacto
-
-- **Desarrollador**: [Tu Nombre]
-- **Email**: [tu-email@ejemplo.com]
-- **GitHub**: [@tu-usuario]
 
 ---
 
